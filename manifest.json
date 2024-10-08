@@ -36,10 +36,10 @@
    "type": "image/png"
   }
  ],
- "background_color": "#FFFFFF",
- "display": "fullscreen",
- "description": "Faça um Tour 360°",
  "theme_color": "#FFFFFF",
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
+ "start_url": "index.htm",
  "name": "Casa da Mãe Joanna  Floricultura",
- "start_url": "index.htm"
+ "description": "Faça um Tour 360°"
 }

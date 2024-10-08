@@ -3,20 +3,22 @@
 ## Action
 
 ### URL
-LinkBehaviour_7BBB6191_6425_365A_41D5_514E6FB706A6.source = https://ugc.production.linktr.ee/da914788-91d9-4103-879d-828fa03401d0_Cata-logo-CMJO-pdf.pdf
+LinkBehaviour_746F0944_6942_B4BC_41D9_7179C292CD7E.source = https://open.spotify.com/playlist/1rikySIbvMnUV1b0NainwA?si=0390dbfd88bb421a
+LinkBehaviour_725F703D_695E_B4CD_41CF_B4E9F8E2BD7B.source = https://open.spotify.com/playlist/1rikySIbvMnUV1b0NainwA?si=0390dbfd88bb421a
 LinkBehaviour_7D0EC673_643D_7ADD_41D0_65C08EBDDC41.source = https://ugc.production.linktr.ee/da914788-91d9-4103-879d-828fa03401d0_Cata-logo-CMJO-pdf.pdf
+LinkBehaviour_7BBB6191_6425_365A_41D5_514E6FB706A6.source = https://ugc.production.linktr.ee/da914788-91d9-4103-879d-828fa03401d0_Cata-logo-CMJO-pdf.pdf
+LinkBehaviour_7699C110_46DE_3C8D_41C8_0F55237EA22C.source = https://wa.me/5553999041848?text=Oi!%20Bem-vinda(o)%20%C3%A0%20Casa%20da%20M%C3%A3e%20Joanna!%20Em%20breve%20te%20atenderemos%2C%20qual%20seu%20nome%2C%20por%20favor%3F%F0%9F%93%B2Talvez%20eu%20demore%20um%20pouquinho%20para%20responder%20devido%20ao%20atendimento%20presencial%20e%20a%20demanda%20do%20WhatsApp%20que%20s%C3%A3o%20respondidas%20por%20ordem%20de%20chamada
 LinkBehaviour_7BBBF190_6425_365A_41C7_087BDED8787F.source = https://wa.me/5553999041848?text=Oi!%20Bem-vinda(o)%20%C3%A0%20Casa%20da%20M%C3%A3e%20Joanna!%20Em%20breve%20te%20atenderemos%2C%20qual%20seu%20nome%2C%20por%20favor%3F%F0%9F%93%B2Talvez%20eu%20demore%20um%20pouquinho%20para%20responder%20devido%20ao%20atendimento%20presencial%20e%20a%20demanda%20do%20WhatsApp%20que%20s%C3%A3o%20respondidas%20por%20ordem%20de%20chamada
 LinkBehaviour_7685D909_46E2_0C9F_41CB_A682A8C8E785.source = https://wa.me/5553999041848?text=Oi!%20Bem-vinda(o)%20%C3%A0%20Casa%20da%20M%C3%A3e%20Joanna!%20Em%20breve%20te%20atenderemos%2C%20qual%20seu%20nome%2C%20por%20favor%3F%F0%9F%93%B2Talvez%20eu%20demore%20um%20pouquinho%20para%20responder%20devido%20ao%20atendimento%20presencial%20e%20a%20demanda%20do%20WhatsApp%20que%20s%C3%A3o%20respondidas%20por%20ordem%20de%20chamada
 LinkBehaviour_7BB5A195_6425_365A_41C4_2A86888F067E.source = https://wa.me/5553999041848?text=Oi!%20Bem-vinda(o)%20%C3%A0%20Casa%20da%20M%C3%A3e%20Joanna!%20Em%20breve%20te%20atenderemos%2C%20qual%20seu%20nome%2C%20por%20favor%3F%F0%9F%93%B2Talvez%20eu%20demore%20um%20pouquinho%20para%20responder%20devido%20ao%20atendimento%20presencial%20e%20a%20demanda%20do%20WhatsApp%20que%20s%C3%A3o%20respondidas%20por%20ordem%20de%20chamada
-LinkBehaviour_7699C110_46DE_3C8D_41C8_0F55237EA22C.source = https://wa.me/5553999041848?text=Oi!%20Bem-vinda(o)%20%C3%A0%20Casa%20da%20M%C3%A3e%20Joanna!%20Em%20breve%20te%20atenderemos%2C%20qual%20seu%20nome%2C%20por%20favor%3F%F0%9F%93%B2Talvez%20eu%20demore%20um%20pouquinho%20para%20responder%20devido%20ao%20atendimento%20presencial%20e%20a%20demanda%20do%20WhatsApp%20que%20s%C3%A3o%20respondidas%20por%20ordem%20de%20chamada
 LinkBehaviour_7BB8318F_6425_3646_41C0_A8F946667D80.source = https://www.facebook.com/cmjoriginal?locale=pt_BR
 LinkBehaviour_75F49F89_46DE_039C_41AB_0B6E92F5B369.source = https://www.facebook.com/cmjoriginal?locale=pt_BR
 WebFrame_29D6EB7B_39AE_037C_4185_158413876876_mobile.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d16048.270412766082!2d-52.1071653!3d-32.0342896!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95119bc8b9c22365%3A0x6bef1de003c3e2d2!2sCasa%20da%20M%C3%A3e%20Joanna%20%7C%20Floricultura%20em%20Rio%20Grande!5e1!3m2!1sen!2sbr!4v1728306079877!5m2!1sen!2sbr
 WebFrame_29D6EB7B_39AE_037C_4185_158413876876.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d16048.270412766082!2d-52.1071653!3d-32.0342896!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95119bc8b9c22365%3A0x6bef1de003c3e2d2!2sCasa%20da%20M%C3%A3e%20Joanna%20%7C%20Floricultura%20em%20Rio%20Grande!5e1!3m2!1sen!2sbr!4v1728306079877!5m2!1sen!2sbr
 LinkBehaviour_7BB87190_6425_365A_41CC_EE08CBCAA679.source = https://www.instagram.com/casadamaejoannaoriginal/
 LinkBehaviour_744BC6B2_46A2_058C_4170_C2CECEE4ECBC.source = https://www.instagram.com/casadamaejoannaoriginal/
-LinkBehaviour_7BBAF191_6425_365A_41D5_860086441EC6.source = https://www.portobello.com.br/
 LinkBehaviour_761D10CE_46E2_3D95_41A8_5AB77F7FAAAB.source = https://www.portobello.com.br/
+LinkBehaviour_7BBAF191_6425_365A_41D5_860086441EC6.source = https://www.portobello.com.br/
 
 ## Media
 
